@@ -1,4 +1,4 @@
-# my_project
+# Anchor PDA Token Mint [live here](https://explorer.solana.com/address/BMgAq1sEFBFhT4XNEBJqJfBFJY93SWWzhcZ8yRYXo4Qt/idl?cluster=devnet)
 
 A Solana Anchor program that demonstrates how to:
 
